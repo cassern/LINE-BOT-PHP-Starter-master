@@ -1,4 +1,4 @@
-<?php>
+<?php
 $access_token = 'bvfW1D6LnI4TP8MUR8MuXe9DRpKQZ16OYVSFyBpHIkBjYp3YFxvO11DiNhiB4PrV7ZmhKmeJZkhLhTWeYUXmUUU+sDj0wH/3TDnJKYIchRPdWfCqdd+hw1SSuRjW/dOfII2g/7sk3SGmAbCWsmZf1wdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
@@ -45,4 +45,3 @@ if (!is_null($events['events'])) {
 	}
 }
 echo "OK";
-</?>
